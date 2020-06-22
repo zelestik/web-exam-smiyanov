@@ -1,0 +1,23 @@
+{
+  "CPUs": [
+    {
+      "id": 1,
+      "Manufacture": "Intel",
+      "Model": "Core i5 8250U",
+      "Socket": "Some_socket",
+      "Frequency": 1.8,
+      "Cores": 4,
+      "Price": "8000"
+    }
+  ],
+  "MBs": [
+    {
+      "id": 1,
+      "Manufacture": "Asus",
+      "Model": "M5A78L-M PLUS/USB3",
+      "Socket": "Socket AM3+",
+      "Chipset": "AMD 780L / SB710",
+      "Price": "4174"
+    }
+  ]
+}
